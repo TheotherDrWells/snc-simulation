@@ -8,11 +8,13 @@ This repository contains all code and supporting materials used in the manuscrip
 
 ## Repository Contents
 
-- `SimulationCode.R` – Main simulation script for all 81 conditions and aggregation
-- `Empirical.R` – Code used for analysis of Rosenberg and DASS-21 scales
-- `snc_sim_results1000.csv` – Output from the 1000-rep simulation (collapsed summary)
-- `LICENSE.md` – MIT license
-- `README.md` – This file
+- `SimulationCode.R` - Main simulation script for all 81 conditions and aggregation
+- `Empirical.R` - Code used for analysis of Rosenberg and DASS-21 scales
+- `snc_sim_results1000.csv` - Output from the 1000-rep simulation (collapsed summary)
+- `dass21_subset.csv` - DASS-21 scale data file
+- `data.csv` - Rosenberg scale data file
+- `LICENSE.md` - MIT license
+- `README.md` - This file
 
 ---
 
